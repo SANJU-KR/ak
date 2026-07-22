@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+model/fake_news_model.pkl
+model/tfidf_vectorizer.pkl
+model/Fake.csv
+model/True.csv
+.DS_Store
